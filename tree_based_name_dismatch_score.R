@@ -1,4 +1,5 @@
-xse II: Pilot Study on Training           ##
+## ########################################### ##
+##  Pilot Study on Training                    ##
 ## Classifier to Detect fuzzy matching         ##
 ## name pairs                                  ##
 ##                                             ##
